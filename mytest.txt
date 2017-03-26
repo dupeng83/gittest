@@ -11,3 +11,6 @@ a new line
 
 
 增加了一行abc
+
+
+准备测试merge conflict 这是from_github/gittest文件夹
