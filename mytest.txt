@@ -11,3 +11,5 @@ a new line
 
 
 增加了一行abc
+
+还是准备测试merge conflict 这是prepared_for_gittest/gittest文件夹,15行
