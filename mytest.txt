@@ -1,15 +1,1 @@
-commit
-mytest
-
-a new line
-
-1111111111111
-2222222222222
-3333333333333
-
-44444444444444
-
-
-增加了一行abc
-
-还是准备测试merge conflict 这是prepared_for_gittest/gittest文件夹,15行
+测试merge之后回退
