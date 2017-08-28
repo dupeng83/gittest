@@ -1,3 +1,11 @@
+合并完成，下面是conflict：
+
+<<<<<<< HEAD
 branch2 推进第一格
 
 branch2 推进第二格
+=======
+这里是分支branch1  2:45 分之前
+
+分支branch1第二格
+>>>>>>> branch1
